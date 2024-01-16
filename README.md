@@ -2,7 +2,7 @@
 
 ## Finished Product
 
-### [🔗Project Link]() 
+### [🔗Project Link](https://youtu.be/CekVhige8IU) 
 When run with "node index.js" the program prompts the user for a shape, color, 3 letter text, and text color before creating a new .svg file in the examples folder. 
 If the user enters "npm test" the program will run a test to see if the projected outcome matches the expectation.
 
@@ -40,4 +40,4 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
-```# Logo-Generator
+```
