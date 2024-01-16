@@ -3,9 +3,12 @@
 ## Finished Product
 
 ### [🔗Project Link]() 
-
+When run with "node index.js" the program prompts the user for a shape, color, 3 letter text, and text color before creating a new .svg file in the examples folder. 
+If the user enters "npm test" the program will run a test to see if the projected outcome matches the expectation.
 
 This project was developed using the following skills: JS, Node.js, Express,js
+
+All code is neatly commented for clarity's sake.
 
 All code written manually by Tyler Fruik.
 
