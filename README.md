@@ -13,7 +13,7 @@ All code is neatly commented for clarity's sake.
 All code written manually by Tyler Fruik.
 
 ### The following is an image of the final product:
-![Image URL](.assets/images/preview.png)
+![Image URL](assets/images/preview.png)
 
 ## Assignment Information
 
